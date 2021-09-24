@@ -6,7 +6,7 @@
 Summary:	Partial OpenSSL binding for Haskell
 Name:		ghc-%{pkgname}
 Version:	0.11.4.18
-Release:	1
+Release:	2
 License:	CC0 1.0
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/HsOpenSSL
